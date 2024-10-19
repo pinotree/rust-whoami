@@ -42,6 +42,7 @@ WhoAmI targets all platforms that can run Rust, including:
    - Web Browser - DOM
    - WASI (Wasite, others) **untested, testing planned later**
    - Daku (Ardaku/Quantii, others) **planned later**
+ - GNU/Hurd
  - Android **planned later**
  - iOS / watchOS / tvOS **planned later**
  - Fuchsia **planned later**
